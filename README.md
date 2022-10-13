@@ -8,5 +8,5 @@ Simple wrapper of the [podman](https://github.com/containers/podman) generated c
 easily integrated with antigen.
 
 ```zsh
-antigen bundle podman-zsh-completions
+antigen bundle ricffb/podman-zsh-completions@main
 ```
